@@ -2,11 +2,11 @@
 
 Bu React Native uygulaması, bitki severler için bir platform sunar. Kullanıcılar, **uzman** ya da **meraklı (enthusiast)** olarak giriş yapabilir, bitkilerini takip edebilir, bitki ekleyebilir, forumda bilgi paylaşabilir ve daha fazlasını yapabilir.
 
-## 👩‍💻 Geliştirici
+## Geliştirici
 
-- **Ad:** İrem
+- Software Engineering dersi için Grup Projesi olarak geliştirildi.
 
-## 📱 Özellikler
+## Özellikler
 
 - Kullanıcı tipi seçimi (Uzman / Meraklı)
 - Bitki ekleme ve arama
@@ -16,7 +16,7 @@ Bu React Native uygulaması, bitki severler için bir platform sunar. Kullanıc�
 - Kayıt / Giriş ekranları (uzman ve meraklılar için ayrı)
 - Context API ile global state yönetimi
 
-## 🧭 Navigasyon Yapısı
+## Navigasyon Yapısı
 
 - `WelcomeScreen`: Açılış ekranı
 - `HomeScreen`: Uzman/Meraklı seçimi
@@ -30,7 +30,7 @@ Bu React Native uygulaması, bitki severler için bir platform sunar. Kullanıc�
 - `Forum`: Forum ekranı
 - `MainPage`: Tabbar navigasyonlu ana sayfa
 
-## 🔧 Kurulum
+## Kurulum
 
 1. Bu repoyu klonla:
 
